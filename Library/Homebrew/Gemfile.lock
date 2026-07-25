@@ -129,7 +129,7 @@ GEM
     rubydex (0.2.9-arm64-darwin)
     rubydex (0.2.9-x86_64-darwin)
     rubydex (0.2.9-x86_64-linux)
-    simplecov (1.0.1)
+    simplecov (1.0.2)
     simplecov-cobertura (4.0.0)
       rexml
       simplecov (~> 1.0)
